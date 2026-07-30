@@ -32,6 +32,8 @@ The workshop is structured around a series of labs, exercises, and real-world ex
 
 By the end of this workshop, you'll have the tools and confidence to harness the full potential of GitHub Actions, enabling you to automate complex processes, improve productivity, and accelerate software delivery.
 
+- GHA training - RS
+
 ---
 
 ## Objectives
