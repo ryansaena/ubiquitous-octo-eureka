@@ -3,7 +3,7 @@ name: Intro - Scheduled Workflow
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/2 * * * *' # Every 5 minutes
+    - cron: '*/30 * * * *' # Every 5 minutes
   push:
     paths:
       - '.github/workflows/intro-scheduled-workflow.yml'
